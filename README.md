@@ -2,4 +2,4 @@
 
 This repository contains all the files for basics of PyTorch for DeepLearning
 
-## Thank You
+## Happy Machine Learning
